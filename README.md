@@ -1,5 +1,5 @@
 <div align=center>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yermi%20Github!&fontSize=90" />
+    <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=wdkim%20Github!&fontSize=90" />
 </div>
 <div align=center>
     <h3>📚 Tech Stack 📚</h3>
@@ -34,18 +34,21 @@
     <p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-    <a href="https://yermi.tistory.com/%22%3E
+<!--
+    <a href="https://yermi.tistory.com/%22%3E">
         <img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
     </a>
-    <a href="kycasdzxc@naver.com">
+-->
+    <a href="mailto:master@wdkim.com">
         <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
     </a>
-    <a href="https://yermi.works/%22%3E
+    <a href="https://wdkim.com">
         <img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
     </a>
 </div>
 <div align=center>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact%22%3E<br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=kycasdzxc%22%3E
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chihyoungKim&layout=compact%22%3E">
+    <br><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=chihyoungKim%22%3E">
 </div>
