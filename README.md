@@ -50,5 +50,5 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chihyoungKim&layout=compact%22%3E">
     <br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=chihyoungKim%22%3E">
+    <img src="https://github-readme-stats.vercel.app/api?username=chihyoungKim&show_icons=true%22%3E">
 </div>
